@@ -33,6 +33,7 @@ Constraints:
 Java solution:
 
 class Solution {
+ 
 public:
     int reverse(int x) {
         int res = 0;
