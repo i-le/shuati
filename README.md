@@ -1,2 +1,2 @@
 # leetcode 
-javascript
+javascript solution
