@@ -1,15 +1,14 @@
 20. Valid Parentheses
-Easy
 
-7002
+Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
 
-289
+An input string is valid if:
 
-Add to List
 
-Share
-Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
+Example 1:
 
+Input: "()"
+Output: true
 An input string is valid if:
 
 Open brackets must be closed by the same type of brackets.
