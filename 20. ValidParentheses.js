@@ -9,7 +9,6 @@ Example 1:
 
 Input: "()"
 Output: true
-An input string is valid if:
 
 Example 2:
 
