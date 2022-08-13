@@ -8,8 +8,8 @@ class Solution {
         }
         
         int curr = 0;
-        int pre2 = 2;
-        int pre1 = 1;
+        int pre2 = 1;
+        int pre1 = 2;
         
         
         for (int i =3; i<=n; i++){
